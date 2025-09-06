@@ -9,9 +9,9 @@ int main() {
     float PIB;
     int Pontos;
 
-printf("Bem vindo ao Jogo de Super Trunfo Cartas!!!\n");
+    printf("Bem vindo ao Jogo de Super Trunfo Cartas!!!\n");
 
-printf("Para começar...\n");
+    printf("Para começar...\n");
 
 
     printf("Digite a letra do estado:\n");
@@ -39,6 +39,7 @@ printf("Para começar...\n");
 printf("Estado: %c\nCodigo: %s\n", Estado, Codigo);
 printf("Cidade: %s\nPopulação: %d\n", Cidade, Populacao);
 printf("Area: %f\nPIB: %F\nPontos: %d\n ",   Area, PIB, Pontos);
+
 
 
 }
